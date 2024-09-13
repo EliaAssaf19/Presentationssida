@@ -1,0 +1,67 @@
+body {
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(196, 196, 196) ;
+    margin: ;
+    padding: ;
+
+
+
+}
+
+
+header {
+
+
+
+    color: white;
+    background-color: rgb(228, 22, 22) ;
+    margin: 5px ;
+    padding: 5px ;
+    text-align: center
+    
+    
+
+}
+
+
+main {
+
+
+    background-color: rgb(228, 22, 22) ;
+    margin: 20px ;
+    padding:  ;
+    text-align: center;
+    color: white;
+
+
+}
+
+
+footer{
+
+text-align: center;
+
+}
+
+
+.kolumn {
+
+
+}
+
+
+.kolumn-2 {
+
+
+}
+
+img {
+
+
+width: 800px ;
+height: ;
+
+
+}
